@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813240090615",
+    "project_id": "kz-auth-8c87d",
+    "storage_bucket": "kz-auth-8c87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813240090615:android:83bb2bf00bb0ce4ed278f2",
+        "android_client_info": {
+          "package_name": "com.example.kz_auth_profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813240090615-md6a6fbl9pbepqllhpeplgfinei0qomf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3F37anbfi-hgs1I4y1htj4Wc5mqFIC-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813240090615-md6a6fbl9pbepqllhpeplgfinei0qomf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
